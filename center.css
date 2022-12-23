@@ -3,3 +3,15 @@ body {
     color: white;
     text-align: center;
 }
+
+a:hover {}
+
+a:link {
+    color: orange;
+}
+
+a:visited {
+    color: red;
+}
+
+
