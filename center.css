@@ -4,7 +4,13 @@ body {
     text-align: center;
 }
 
-a:hover {}
+a:hover {
+    color: chocolate;
+}
+
+a:active {
+    color: coral;
+}
 
 a {
     color: orange;
@@ -14,4 +20,18 @@ a:visited {
     color: red;
 }
 
+#head1 {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 70px;
+    font-weight: 100;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
 
+.head2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#subhead1 {
+    margin-top: 0px;
+}
